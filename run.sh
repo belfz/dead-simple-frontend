@@ -1,2 +1,2 @@
 #!/usr/bin/env bash
-npx http-server .
+npx http-server . -c-1
